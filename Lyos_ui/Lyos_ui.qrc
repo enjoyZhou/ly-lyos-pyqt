@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>./content/App.qml</file>
+<file>./content/Screen01.ui.qml</file>
+<file>./imgs/setting_icon.png</file>
+<file>./imports/Lyos_ui/Constants.qml</file>
+<file>./imports/Lyos_ui/DirectoryFontLoader.qml</file>
+<file>./imports/Lyos_ui/EventListModel.qml</file>
+<file>./imports/Lyos_ui/EventListSimulator.qml</file>
+<file>./imports/Lyos_ui/qmldir</file>
+<file>./Lyos_ui.qmlproject</file>
+<file>./qtquickcontrols2.conf</file>
+</qresource>
+</RCC>
